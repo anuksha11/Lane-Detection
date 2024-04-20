@@ -43,3 +43,6 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
 # Outputs
 <img src="images/1.jpg" width="350" height="300"> <img src="images/output1.png" width="350" height="300"> <br/> 
 <img src="images/2.jpg" width="350" height="300"> <img src="images/output2.png" width="350" height="300"> <br/> 
+<img src="images/3.jpg" width="350" height="300"> <img src="images/output3.png" width="350" height="300"> <br/> 
+
+# Metrics
