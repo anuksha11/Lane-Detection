@@ -30,4 +30,9 @@ Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 e
 * Open the needed dataset file in Google Drive and add shortcut to MyDrive.
 * Open the needed weights file in Google Drive and add shortcut to MyDrive.
 * Make sure you have the dataset file and colab file in same google account.
+* To do inferencing directly from user interface :
+  - Open the ipnyb file in Google Colab 
+  - Open the needed weights file in Google Drive and add shortcut to MyDrive.
+  - Run the code under "Inferencing Code From User Interface" subsection to get your user interface.
+  - Now u can open the link provided under output of the code after running the code or directly upload images to get the output of the model.
   
