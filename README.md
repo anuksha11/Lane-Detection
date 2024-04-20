@@ -29,4 +29,5 @@ Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 e
 * Open the ipnyb file in Google Colab
 * Open the needed dataset file in Google Drive and add shortcut to MyDrive.
 * Open the needed weights file in Google Drive and add shortcut to MyDrive.
+* Make sure you have the dataset file and colab file in same google account.
   
