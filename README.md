@@ -48,9 +48,15 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
 # Metrics
 <img src="metrics/table.jpg" width="750" height="600">  <br/> <br/>
 ## Metrics for cidata_half dataset with 16 epochs:
+### Training Loss And Accuracy
 <img src="metrics/traininglossandaccuracy.jpg" width="850" height="500">  <br/> 
-<img src="metrics/accuracy.jpg" width="850" height="500">  <br/> 
-<img src="metrics/iou.jpg" width="850" height="500">  <br/> 
-<img src="metrics/f1score.jpg" width="850" height="500">  <br/> 
-<img src="metrics/precision.jpg" width="850" height="500">  <br/> 
-<img src="metrics/recall.jpg" width="850" height="500">  <br/> 
+### Accuracy
+<img src="metrics/accuracy.jpg" width="350" height="350">  <br/> 
+### IoU
+<img src="metrics/iou.jpg" width="350" height="350"> <br/>
+### F1Score
+<img src="metrics/f1score.jpg" width="350" height="350">  <br/> 
+### Precision
+<img src="metrics/precision.jpg" width="350" height="350">  <br/> 
+### Recall
+<img src="metrics/recall.jpg" width="350" height="350">  <br/> 
