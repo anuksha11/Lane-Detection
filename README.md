@@ -13,9 +13,14 @@ and testing <a href="https://drive.google.com/drive/folders/1vKLdiW1aEzlqbNBHwZi
 
 Due to the restricted RAM and GPU usage on colab, inorder to increase the number of
 training epochs to improve the accuracy we again split the dataset into half i.e 800 images
-in training dataset and 150 images for both validation and test datasets<a href="https://drive.google.com/drive/folders/1oB77rdmKt3x-EYacWD2fzesLO2mDxiSL?usp=sharing" target="_blank">cidata_half</a>
+in training dataset and 150 images for both validation and test datasets <a href="https://drive.google.com/drive/folders/1oB77rdmKt3x-EYacWD2fzesLO2mDxiSL?usp=sharing" target="_blank">cidata_half</a>
 
 # Code Files
 Halfdata_16.ipnyb file corresponds to the model trained on cidata_half dataset with 16 epochs.<br />
 Halfdata_8.ipnyb file corresponds to the model trained on cidata_half dataset with 8 epochs.<br />
 Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 epochs.
+
+# Weights Files
+weights_half_16.h5 file corresponds to the model weights trained on cidata_half dataset and 16 epochs. <br/>
+weights_half_8.h5 file corresponds to the model weights trained on cidata_half dataset and 8 epochs. <br/>
+weights_full_6.h5 file corresponds to the model weights trained on cidata dataset and 6 epochs
