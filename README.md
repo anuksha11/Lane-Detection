@@ -16,6 +16,6 @@ training epochs to improve the accuracy we again split the dataset into half i.e
 in training dataset and 150 images for both validation and test datasets<a href="https://drive.google.com/drive/folders/1oB77rdmKt3x-EYacWD2fzesLO2mDxiSL?usp=sharing" target="_blank">cidata_half</a>
 
 # Code Files
-Halfdata_16.ipnyb file corresponds to the model trained on cidata_half dataset with 16 epochs.
-Halfdata_8.ipnyb file corresponds to the model trained on cidata_half dataset with 8 epochs.
+Halfdata_16.ipnyb file corresponds to the model trained on cidata_half dataset with 16 epochs.<br />
+Halfdata_8.ipnyb file corresponds to the model trained on cidata_half dataset with 8 epochs.<br />
 Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 epochs.
