@@ -31,12 +31,12 @@ Interface.ipnyb file corresponds to the file containing code for inferencing and
   - For Halfdata_16.ipnyb use cidata_half dataset.
   - For Halfdata_8.ipnyb use cidata_half dataset.
   - For Fulldata_6.ipnyb use cidata dataset.
-  - Open the ipnyb file in Google Colab.
+  - Open the ipnyb file in Google Colab.The main model is in Halfdata_16.ipnyb file.
   - Open the needed dataset file in Google Drive and add shortcut to MyDrive.
   - Make sure you have the dataset file and colab file in same google account.
   - Run the code.
 * To do inferencing directly from user interface :
-  - Open the Inferencing.ipnyb file in Google Colab. 
+  - Open the Interface.ipnyb file in Google Colab. 
   - Open the needed weights file in Google Drive and add shortcut to MyDrive.
   - Make sure you have the weights file and colab file in same google account.
   - Change path to weights file in "weights_path" variable under the section "Weights Path".(Default is given to weights file of model trained on cidata_half dataset with 16 epochs)
