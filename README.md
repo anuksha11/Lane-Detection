@@ -24,3 +24,9 @@ Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 e
 <a href="https://drive.google.com/file/d/1MtOogyk-_M2TXynyITVe1Ym5NGdZgoJP/view?usp=sharing" target="_blank">weights_half_16.h5</a> file corresponds to the model weights trained on cidata_half dataset and 16 epochs. <br/>
 <a href="https://drive.google.com/file/d/1C26FCTcfDzg6LyTpFuvFC1DPbY72NGab/view?usp=sharing" target="_blank">weights_half_8.h5</a> file corresponds to the model weights trained on cidata_half dataset and 8 epochs. <br/>
 <a href="https://drive.google.com/file/d/12gwN-XOWrpfUATAwPK3gC-bpZHx_C47G/view?usp=sharing" target="_blank">weights_full_6.h5</a> file corresponds to the model weights trained on cidata dataset and 6 epochs
+
+# Steps To Run The Code
+* Open the ipnyb file in Google Colab
+* Open the needed dataset file in Google Drive and add shortcut to MyDrive.
+* Open the needed weights file in Google Drive and add shortcut to MyDrive.
+  
