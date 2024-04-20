@@ -19,7 +19,7 @@ in training dataset and 150 images for both validation and test datasets <a href
 Halfdata_16.ipnyb - model trained on cidata_half dataset with 16 epochs.<br />
 Halfdata_8.ipnyb - model trained on cidata_half dataset with 8 epochs.<br />
 Fulldata_6.ipnyb - model trained on cidata dataset with 6 epochs. <br/>
-Inference.ipnyb file corresponds to the file containing code for inferencing and creation of user interface.
+Interface.ipnyb file corresponds to the file containing code for inferencing and creation of user interface.
 
 # Weights Files
 <a href="https://drive.google.com/file/d/1MtOogyk-_M2TXynyITVe1Ym5NGdZgoJP/view?usp=sharing" target="_blank">weights_half_16.h5</a> - model weights trained on cidata_half dataset and 16 epochs. <br/>
