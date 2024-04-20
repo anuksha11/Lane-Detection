@@ -41,4 +41,4 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
   - Now you can open the link provided under output of the code after running the code or directly upload images to get the output of the model.
   
 # Outputs
-![](images/1.jpg)
+![](images/1.jpg =250x250) ![](images/output1.png =250x250) 
