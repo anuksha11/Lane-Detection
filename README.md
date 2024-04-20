@@ -27,7 +27,7 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
 <a href="https://drive.google.com/file/d/12gwN-XOWrpfUATAwPK3gC-bpZHx_C47G/view?usp=sharing" target="_blank">weights_full_6.h5</a> file corresponds to the model weights trained on cidata dataset and 6 epochs
 
 # Steps To Run The Code
-*To load the model and perform training:
+* To load the model and perform training:
   - Open the ipnyb file in Google Colab.
   - Open the needed dataset file in Google Drive and add shortcut to MyDrive.
   - Open the needed weights file in Google Drive and add shortcut to MyDrive.
