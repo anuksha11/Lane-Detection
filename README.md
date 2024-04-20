@@ -18,7 +18,8 @@ in training dataset and 150 images for both validation and test datasets <a href
 # Code Files
 Halfdata_16.ipnyb file corresponds to the model trained on cidata_half dataset with 16 epochs.<br />
 Halfdata_8.ipnyb file corresponds to the model trained on cidata_half dataset with 8 epochs.<br />
-Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 epochs.
+Fulldata_6.ipnyb file corresponds to the model trained on cidata dataset with 6 epochs. <br/>
+Inference.ipnyb file corresponds to the file containing code for inferncing and creation of user interface.
 
 # Weights Files
 <a href="https://drive.google.com/file/d/1MtOogyk-_M2TXynyITVe1Ym5NGdZgoJP/view?usp=sharing" target="_blank">weights_half_16.h5</a> file corresponds to the model weights trained on cidata_half dataset and 16 epochs. <br/>
@@ -26,13 +27,15 @@ Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 e
 <a href="https://drive.google.com/file/d/12gwN-XOWrpfUATAwPK3gC-bpZHx_C47G/view?usp=sharing" target="_blank">weights_full_6.h5</a> file corresponds to the model weights trained on cidata dataset and 6 epochs
 
 # Steps To Run The Code
-* Open the ipnyb file in Google Colab
+*To load the model and perform training:
+  - Open the ipnyb file in Google Colab.
   - Open the needed dataset file in Google Drive and add shortcut to MyDrive.
   - Open the needed weights file in Google Drive and add shortcut to MyDrive.
   - Make sure you have the dataset file and colab file in same google account.
+  - Run the code.
 * To do inferencing directly from user interface :
-  - Open the ipnyb file in Google Colab 
+  - Open the Inferencing.ipnyb file in Google Colab. 
   - Open the needed weights file in Google Drive and add shortcut to MyDrive.
-  - Run the code under "Inferencing Code From User Interface" subsection to get your user interface.
+  - Run the code.
   - Now you can open the link provided under output of the code after running the code or directly upload images to get the output of the model.
   
