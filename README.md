@@ -21,6 +21,6 @@ Halfdata_8.ipnyb file corresponds to the model trained on cidata_half dataset wi
 Fulldata_6.ipnyb file correspondsto the model trained on cidata dataset with 6 epochs.
 
 # Weights Files
-weights_half_16.h5 file corresponds to the model weights trained on cidata_half dataset and 16 epochs. <br/>
-weights_half_8.h5 file corresponds to the model weights trained on cidata_half dataset and 8 epochs. <br/>
-weights_full_6.h5 file corresponds to the model weights trained on cidata dataset and 6 epochs
+<a href="https://drive.google.com/file/d/1MtOogyk-_M2TXynyITVe1Ym5NGdZgoJP/view?usp=sharing" target="_blank">weights_half_16.h5</a> file corresponds to the model weights trained on cidata_half dataset and 16 epochs. <br/>
+<a href="https://drive.google.com/file/d/1C26FCTcfDzg6LyTpFuvFC1DPbY72NGab/view?usp=sharing" target="_blank">weights_half_8.h5</a> file corresponds to the model weights trained on cidata_half dataset and 8 epochs. <br/>
+<a href="https://drive.google.com/file/d/12gwN-XOWrpfUATAwPK3gC-bpZHx_C47G/view?usp=sharing" target="_blank">weights_full_6.h5</a> file corresponds to the model weights trained on cidata dataset and 6 epochs
