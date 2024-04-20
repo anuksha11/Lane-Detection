@@ -46,4 +46,5 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
 <img src="images/3.jpg" width="350" height="300"> <img src="images/output3.png" width="350" height="300"> <br/> 
 
 # Metrics
-<img src="metrics/table.jpg" width="750" height="600">  <br/> 
+<img src="metrics/table.jpg" width="750" height="600">  <br/> <br/>
+<img src="metrics/traininglossandaccuracy.jpg" width="850" height="500">  <br/> 
