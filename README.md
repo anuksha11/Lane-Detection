@@ -35,6 +35,7 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
 * To do inferencing directly from user interface :
   - Open the Inferencing.ipnyb file in Google Colab. 
   - Open the needed weights file in Google Drive and add shortcut to MyDrive.
+  - Make sure you have the weights file and colab file in same google account.
   - Change path to weights file in "weights_path" variable under the section "Weights Path".(Default is given to weights file of model trained on cidata_half dataset with 16 epochs)
   - Run the code.
   - Now you can open the link provided under output of the code after running the code or directly upload images to get the output of the model.
