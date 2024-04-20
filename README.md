@@ -51,12 +51,12 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
 ### Training Loss And Accuracy
 <img src="metrics/traininglossandaccuracy.jpg" width="850" height="500">  <br/> 
 ### Accuracy
-<img src="metrics/accuracy.jpg" width="350" height="350">  <br/> 
+<img src="metrics/accuracy.jpg" width="400" height="400">  <br/> 
 ### IoU
-<img src="metrics/iou.jpg" width="350" height="350"> <br/>
+<img src="metrics/iou.jpg" width="400" height="400"> <br/>
 ### F1Score
-<img src="metrics/f1score.jpg" width="350" height="350">  <br/> 
+<img src="metrics/f1score.jpg" width="400" height="400">  <br/> 
 ### Precision
-<img src="metrics/precision.jpg" width="350" height="350">  <br/> 
+<img src="metrics/precision.jpg" width="400" height="400">  <br/> 
 ### Recall
-<img src="metrics/recall.jpg" width="350" height="350">  <br/> 
+<img src="metrics/recall.jpg" width="400" height="400">  <br/> 
