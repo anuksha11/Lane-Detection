@@ -28,6 +28,9 @@ Inference.ipnyb file corresponds to the file containing code for inferncing and 
 
 # Steps To Run The Code
 * To load the model and perform training:
+  - For Halfdata_16.ipnyb use cidata_half dataset.
+  - For Halfdata_8.ipnyb use cidata_half dataset.
+  - For Fulldata_6.ipnyb use cidata dataset.
   - Open the ipnyb file in Google Colab.
   - Open the needed dataset file in Google Drive and add shortcut to MyDrive.
   - Make sure you have the dataset file and colab file in same google account.
