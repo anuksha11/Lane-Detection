@@ -10,8 +10,9 @@ In order to facilitate processing within Google Colab, we aimed to reduce the si
 CurveLanes dataset, which originally amounted to 68 gigabytes. From this extensive dataset,
 we selected 1.6k images for training purposes, along with 300 images each for both validation
 and testing. <a href="https://drive.google.com/drive/folders/1vKLdiW1aEzlqbNBHwZiZlwQwgu82bOQ5?usp=sharing" target="_blank">cidata</a>
+
 Due to the restricted RAM and GPU usage on colab, inorder to increase the number of
 training epochs to improve the accuracy we again split the dataset into half i.e 800 images
-in training dataset and 150 images for both validation and test datasets.<a href="https://drive.google.com/drive/folders/1oB77rdmKt3x-EYacWD2fzesLO2mDxiSL?usp=sharing" target="_blank">cidata</a>
+in training dataset and 150 images for both validation and test datasets.<a href="https://drive.google.com/drive/folders/1oB77rdmKt3x-EYacWD2fzesLO2mDxiSL?usp=sharing" target="_blank">cidata_half</a>
 
 
