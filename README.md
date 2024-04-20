@@ -12,5 +12,6 @@ we selected 1.6k images for training purposes, along with 300 images each for bo
 and testing. <a href="https://drive.google.com/drive/folders/1vKLdiW1aEzlqbNBHwZiZlwQwgu82bOQ5?usp=sharing" target="_blank">cidata</a>
 Due to the restricted RAM and GPU usage on colab, inorder to increase the number of
 training epochs to improve the accuracy we again split the dataset into half i.e 800 images
-in training dataset and 150 images for both validation and test datasets.
+in training dataset and 150 images for both validation and test datasets.<a href="https://drive.google.com/drive/folders/1oB77rdmKt3x-EYacWD2fzesLO2mDxiSL?usp=sharing" target="_blank">cidata</a>
+
 
